@@ -1,0 +1,454 @@
+#a{
+	height: 6950px;
+	width: 1100px;
+	background-color: black;
+	
+}
+#b{
+	height: 10px;
+	width: 610px;
+	background-color: black;
+}
+#c{
+	height: 425px;
+	width: 1000px;
+	background-color: lightblue;
+	margin-top:50px;
+	margin-left: 50px;
+	text-align: center;
+}
+#c1{
+	height: 400px;
+	width: 950px;
+	background-image: url('images/2.jpg');
+	margin-top:50px;
+	margin-left: 25px;
+}
+#c2{
+	height: 200px;
+	width: 600px;
+	background-color: white;
+	margin-left: 20px;
+	float: right;
+	font-size: 50px;
+	text-align: left;
+	color: red;   
+}
+#c3{
+	height: 200px;
+	width: 600px;
+	background-color: white;
+	margin-left: 20px;
+	float: right;
+	font-size: 20px;
+	text-align: left;
+	color: black; 
+}
+#d{
+	height: 600px;
+	width: 1000px;
+	background-color: white;
+	margin-left: 50px;
+	text-align: center;
+}
+#h{
+	padding: 10px;
+}
+#d1{
+	height: 150px;
+	width: 1000px;
+	background-color: white;
+	font-size: 60px;
+	color: black;
+	text-underline-position: under;	
+}
+#d2{
+	height:180px;
+	width: 1000px;
+	background-color: white;
+	font-size: 20px;
+	color: black;
+	background-position: -20px 0px;
+}
+#d3{
+	position: relative;
+	left: 20px;
+	bottom: 10px;
+	top: 3px;
+	background-color: blue;
+	color: white;
+}#c4{
+	position: relative;
+	top: 330px;
+	left: 270px;
+	background-color: blue;
+	color: white;
+}
+#e{
+	height: 600px;
+	width: 1000px;
+	background-color: lightgrey;
+	margin-left: 50px;
+	text-align: center;
+}
+#e1{
+	height: 300px;
+	width: 400px;
+	position: relative;
+	right: 80px;
+	top: 30px;
+}
+#e2{
+	height: 300px;
+	width: 400px;
+	position: relative;
+	top:250px;
+	right: 400px;
+}
+#e3{
+	height: 350px;
+	width: 400px;
+	background-color: white;
+	position: relative;
+	left: 410px;
+	bottom: 220px;
+
+}
+h3{
+	color:black;
+	position: relativefile:///C:/Users/user/Desktop/fsd/caption%20projects/web%20site%20application%20brands/images/4.webp;
+	top: 50px;
+}
+#e4{
+	color:black;
+	position: relative;
+	top: 50px;
+	left:10px;
+}
+#e5{
+	position: relative;
+	left: 20px;
+	bottom: 5px;
+	top: 90px;
+	background-color: blue;
+	color: white;
+}
+#f{
+	height: 600px;
+	width: 1000px;
+	background-color: blue;
+	margin-left: 50px;
+	text-align: center;
+
+}
+#h1{
+	color: white;
+	font-size: 30px;
+
+}
+#p{
+	color: white;
+	font-size: 10px;
+	padding: 10px;
+	background-color:blue;
+}
+#f1{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	float:left ;
+	margin-left:100px ;
+	margin-top: 100px;
+	text-align: center;
+	font-size: 50px;
+	color: black;
+	box-sizing: border-box;
+	
+}
+#f2{
+	height: 100px;
+	width: 180px;
+	left: 10px;
+	padding-top: 10px;
+}
+#f3{
+	font-size: 20px;
+	color: black;
+}
+#f4{
+	font-size: 10px;
+	color: black;
+	left: 10px;
+}
+#g{
+	height: 600px;
+	width: 1000px;
+	background-color: white;
+	margin-left: 50px;
+	text-align: center;
+	
+	
+	
+}
+#g1{
+	font-size: 10px;
+	color: black;
+	margin-top: 10px;
+}
+#g2{
+	height: 100px;
+	width: 250;
+	background-color: white;
+	position: relative;
+	float: left;
+	font-size: 10px;
+	top: 50px;
+	margin-left:100px ;
+}
+#g3{
+	height:150px ;
+	width: 1000px;
+	background-color: white;
+}
+#i{
+	height: 600px;
+	width: 1000px;
+	background-color: blue;
+	margin-left: 50px;
+	text-align: center;
+}
+#i1{
+	height: 250px;
+	width: 1000px;
+	background-color: blue;
+	font-size: 20px;
+	color: white;
+}
+#i2{
+	height: 300px;
+	width: 400px;
+	position: relative;
+	float: left;
+	left: 90px;
+	background-color: white;
+}
+#i3{
+	height: 300px;
+	width: 400px;
+	position: relative;
+	float: right;
+	right: 80px;
+	background-color: white;
+}
+#i4{
+	height: 200px;
+	width: 150px;
+	position: relative;
+	float: left;
+	font-size: 20px;
+	color: black;
+}
+#i5{
+	color: red;
+}
+#i6{
+	color: red;
+	float: left;
+	
+}
+#j{
+height: 800px;
+width: 1000px;
+background-color: white;
+margin-left: 50px;
+}
+#j1{
+	height: 700px;
+	width: 500px;
+	float: right;
+	background-color: lightgrey;
+}
+#j2{
+	height: 500px;
+	width: 500px;
+	position: relative;
+	top: 70px;
+	right: 100px;
+}
+#j3{
+	margin-left: 100px;
+	font-size: 20px;
+	color: black;
+}
+#j4{
+	color: white;
+	background-color: blue;
+	position: relative;
+	top: 150px;
+	left: 130px;
+}
+#k{
+	height: 1200px;
+	width: 1000px;
+	background-color: blue;
+	margin-left: 50px;
+}
+#k1{
+	height: 200px;
+	width: 1000px;
+	background-color: blue;
+	font-size: 20px;
+	color: white;
+}
+#k2{
+	height: 300px;
+	width: 1000px;
+	background-color: blue;
+	font-size: 20px;
+	color: white;
+}
+#k3{
+	height: 200px;
+	width: 200px;
+	position: relative;
+	float: left;
+	left: 100px;
+	top: 50px;
+}
+#k4{
+	position: relative;
+	float: right;
+	right: 550px;
+	top: 10px;
+	font-size: 20px;
+	color: white;
+
+}
+#k5{
+	position: relative;
+	float: right;
+	right: 400px;
+	width: 150px;
+}
+#k6{
+	position: relative;
+	float: left;
+	left: 110px;
+
+}
+#l{
+	height: 800px;
+	width: 1000px;
+	margin-left: 50px;
+	background-color: white;
+}
+#l2{
+	height: 650px;
+	width: 300px;
+	background-color:red;
+	position: relative;
+	float: left;
+	left: 300px;
+	top: 60px;
+}
+#l3{
+	height: 400px;
+	width: 710px;
+	background-color: white;
+	position: relative;
+	float: left;
+	left: 50px;
+	bottom: 550px;
+
+}
+#l4{
+	height: 180px;
+	width: 200px;
+	background-color: white;
+	padding-left: 25px;
+	padding-top: 10px;
+
+}
+#l5{
+	height: 180px;
+	width: 200px;
+	position: relative;
+	float: left;
+	left: 170px;
+	bottom: 390px;
+	padding-top: 10px;
+	padding-left: 25px;
+}
+#l6{
+	height: 180px;
+	width: 200px;
+	position: relative;
+	float: right;
+	right: 290px;
+	bottom: 200px;
+	padding-top: 10px;
+	padding-right:25px ;
+
+	
+}
+#l7{
+	height: 180px;
+	width: 200px;
+	position: relative;
+	float: right;
+	right: 100px;
+	bottom: 400px;
+	padding-top: 20px;
+	padding-right:1px ;
+
+	
+}
+#l8{
+	height: 300px;
+	width: 400px;
+	background-color: white;
+	position: relative;
+	float: left;
+	left: 530px;
+	bottom: 230px;
+	font-size: 20px;
+	color: black;
+}
+#L9{
+	color: white;
+	background-color: blue;
+	position: relative;
+}
+#m{
+	height: 600px;
+	width: 1000px;
+	background-color: blue;
+	margin-left: 50px;
+}#m1{
+	height: 300px;
+	width: 700px;
+	background-color: white;
+	position: relative;
+	float: left;
+	left: 170px;
+	bottom: 200px;
+	font-size: 10px;
+	color: black;
+}
+#m3{
+	height: 100px;
+	width: 50px;
+	position: relative;
+	float: left;
+	left: 230px;
+	top: 60px;
+	color: red;
+}
+#r{
+	width: 300px;
+	color: red;
+	position: relative;
+	float: left;
+	left: 350px;
+	bottom: 30px;
+}
